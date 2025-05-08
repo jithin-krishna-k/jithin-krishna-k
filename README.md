@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp">
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on NextJs
 
 - 📫 How to reach me **jithinkrishna526@gmail.com**
 
